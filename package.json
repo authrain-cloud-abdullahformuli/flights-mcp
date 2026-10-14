@@ -1,0 +1,23 @@
+{
+  "name": "flights-mcp",
+  "version": "0.1.0",
+  "description": "Flight search MCP server using Duffel API for Claude Desktop and agentic tools",
+  "author": "Abdullah Formuli <authrainmedia@gmail.com> (https://github.com/authrain-cloud-abdullahformuli)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/authrain-cloud-abdullahformuli/flights-mcp.git"
+  },
+  "homepage": "https://github.com/authrain-cloud-abdullahformuli/flights-mcp",
+  "scripts": {
+    "test": "node test.mjs"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "flights",
+    "duffel",
+    "travel-agent",
+    "claude"
+  ]
+}

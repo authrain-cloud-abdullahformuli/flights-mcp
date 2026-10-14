@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use Find Flights MCP Server, please cite it using these metadata."
+title: "Find Flights MCP Server: Flight Search & Retrieval MCP Server via Duffel API"
+type: software
+authors:
+  - family-names: "Formuli"
+    given-names: "Abdullah"
+    email: "authrainmedia@gmail.com"
+    website: "https://github.com/authrain-cloud-abdullahformuli"
+url: "https://github.com/authrain-cloud-abdullahformuli/flights-mcp"
+repository-code: "https://github.com/authrain-cloud-abdullahformuli/flights-mcp"
+license: MIT
+keywords:
+  - model-context-protocol
+  - mcp-server
+  - flight-search
+  - duffel-api
+  - claude-desktop
+  - travel
